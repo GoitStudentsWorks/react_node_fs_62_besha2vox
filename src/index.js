@@ -10,7 +10,7 @@ import App from 'App';
 import './index.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <BrowserRouter basename="/your-pet">
+  <BrowserRouter basename="/react_node_fs_62_besha2vox">
     <React.StrictMode>
       <Provider store={store}>
         <PersistGate loading={null} persistor={persistor}>
